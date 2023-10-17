@@ -16,17 +16,14 @@ def selection_sort(arr):
 def merge_sort(arr):
     if len(arr) <= 1:
         return arr
-    
-    # 将列表分为两半
+
     mid = len(arr) // 2
     left_half = arr[:mid]
     right_half = arr[mid:]
     
-    # 递归对两个子列表进行排序
     left_half = merge_sort(left_half)
     right_half = merge_sort(right_half)
     
-    # 合并两个有序的子列表
     return merge(left_half, right_half)
 
 def merge(left, right):
@@ -34,7 +31,6 @@ def merge(left, right):
     left_idx = 0
     right_idx = 0
     
-    # 比较左右两个列表的元素，将较小的放入合并列表中
     while left_idx < len(left) and right_idx < len(right):
         if left[left_idx] < right[right_idx]:
             merged.append(left[left_idx])
@@ -43,7 +39,6 @@ def merge(left, right):
             merged.append(right[right_idx])
             right_idx += 1
     
-    # 将剩余的元素加入合并列表
     merged.extend(left[left_idx:])
     merged.extend(right[right_idx:])
     
@@ -55,7 +50,6 @@ def measure_time(sort_func, arr):
     end_time = time.time()
     return end_time - start_time
 
-# 生成不同长度数列
 lengths = [100, 1000, 2000, 10000, 20000]
 num_trials = 10
 
@@ -80,5 +74,3 @@ for length in lengths:
     print(f"对长度为 {length} 的数列进行排序的平均时间：")
     print(f"Selection Sort: {average_time_selection:.6f} 秒")
     print(f"Insertion Sort: {average_time_merge:.6f} 秒")
-    print()
-
