@@ -1,0 +1,251 @@
+rank,name,chinese_name,year,rating,genre,run_time,box_office,directors
+1,The Shawshank Redemption,Ф��˵ľ���,1994,9.3,Drama,2h 22m,28884504,Frank Darabont
+2,The Godfather,�̸�,1972,9.2,"Crime,Drama",2h 55m,250341816,Francis Ford Coppola
+3,The Dark Knight,�̸�2,2008,9,"Action,Crime,Drama",2h 32m,1006234167,Christopher Nolan
+4,The Godfather Part II,���������ڰ���ʿ,1974,9,"Crime,Drama",3h 22m,47961919,Francis Ford Coppola
+5,12 Angry Men,ʮ��ŭ��,1957,9,"Crime,Drama",1h 36m,955,Sidney Lumet
+6,Schindler's List,�����յ�����,1993,9,"Biography,Drama,History",3h 15m,322161245,Steven Spielberg
+7,The Lord of the Rings: The Return of the King,ָ����3�������޵�,2003,9,"Action,Adventure,Drama",3h 21m,1146457748,Peter Jackson
+8,Pulp Fiction,����С˵,1994,8.9,"Crime,Drama",2h 34m,213928762,Quentin Tarantino
+9,The Lord of the Rings: The Fellowship of the Ring,ָ����1��ħ������,2001,8.8,"Action,Adventure,Drama",2h 58m,898204420,Peter Jackson
+10,"The Good, the Bad and the Ugly",�ƽ����ڿ�,1966,8.8,"Adventure,Western",2h 58m,25253887,Sergio Leone
+11,Forrest Gump,��������,1994,8.8,"Drama,Romance",2h 22m,678226465,Robert Zemeckis
+12,Fight Club,�������ֲ�,1999,8.8,Drama,2h 19m,101209702,David Fincher
+13,The Lord of the Rings: The Two Towers,ָ����2��˫�����,2002,8.8,"Action,Adventure,Drama",2h 59m,947944270,Peter Jackson
+14,Inception,���οռ�,2010,8.8,"Action,Adventure,Sci-Fi",2h 28m,836848102,Christopher Nolan
+15,Star Wars: Episode V - The Empire Strikes Back,�����ս2���۹�����ս,1980,8.7,"Action,Adventure,Fantasy",2h 4m,538375067,Irvin Kershner
+16,The Matrix,�ڿ͵۹�,1999,8.7,"Action,Sci-Fi",2h 16m,467222728,"Lana Wachowski,Lilly Wachowski"
+17,Goodfellas,�üһ�,1990,8.7,"Biography,Crime,Drama",2h 25m,47036784,Martin Scorsese
+18,One Flew Over the Cuckoo's Nest,��Խ����Ժ,1975,8.7,Drama,2h 13m,109114817,Milos Forman
+19,Se7en,������,1995,8.6,"Crime,Drama,Mystery",2h 7m,327333559,David Fincher
+20,Seven Samurai,����ʿ,1954,8.6,"Action,Drama",3h 27m,346258,Akira Kurosawa
+21,It's a Wonderful Life,���������,1946,8.6,"Drama,Family,Fantasy",2h 10m,8574081,Frank Capra
+22,The Silence of the Lambs,��Ĭ�ĸ���,1991,8.6,"Crime,Drama,Thriller",1h 58m,272742922,Jonathan Demme
+23,City of God,�ϵ�֮��,2002,8.6,"Crime,Drama",2h 10m,30680793,"Fernando Meirelles,K��tia Lund(co-director)"
+24,Saving Private Ryan,���ȴ�����,1998,8.6,"Drama,War",2h 49m,482349603,Steven Spielberg
+25,Interstellar,�Ǽʴ�Խ,2014,8.6,"Adventure,Drama,Sci-Fi",2h 49m,773867216,Christopher Nolan
+26,Life Is Beautiful,���������,1997,8.6,"Comedy,Drama,Romance",1h 56m,230098753,Roberto Benigni
+27,The Green Mile,�����漣,1999,8.6,"Crime,Drama,Fantasy",3h 9m,286801374,Frank Darabont
+28,Star Wars: Episode IV - A New Hope,�����ս,1977,8.6,"Action,Adventure,Fantasy",2h 1m,775398007,George Lucas
+29,Terminator 2: Judgment Day,�ս���2��������,1991,8.6,"Action,Sci-Fi",2h 17m,520881154,James Cameron
+30,Back to the Future,�ص�δ��,1985,8.5,"Adventure,Comedy,Sci-Fi",1h 56m,383336762,Robert Zemeckis
+31,Spirited Away,ǧ��ǧѰ,2001,8.6,"Animation,Adventure,Family",2h 5m,355822319,Hayao Miyazaki
+32,The Pianist,���ټ�,2002,8.5,"Biography,Drama,Music",2h 30m,120072577,Roman Polanski
+33,Psycho,�����,1960,8.5,"Horror,Mystery,Thriller",1h 49m,32052925,Alfred Hitchcock
+34,Parasite,������,2019,8.5,"Drama,Thriller",2h 12m,262676096,Bong Joon Ho
+35,L��on: The Professional,���ɱ�ֲ�̫��,1994,8.5,"Action,Crime,Drama",1h 50m,19569225,Luc Besson
+36,The Lion King,ʨ����,1994,8.5,"Animation,Adventure,Drama",1h 28m,968511805,"Roger Allers,Rob Minkoff"
+37,Gladiator,�Ƕ�ʿ,2000,8.5,"Action,Adventure,Drama",2h 35m,503162313,Ridley Scott
+38,American History X,����X����,1998,8.5,"Crime,Drama",1h 59m,23875127,Tony Kaye
+39,The Departed,�޼������,2006,8.5,"Crime,Drama,Thriller",2h 31m,291480452,Martin Scorsese
+40,The Usual Suspects,����X����,1995,8.5,"Crime,Drama,Mystery",1h 46m,23341568,Bryan Singer
+41,The Prestige,�ǳ����ɷ�,2006,8.5,"Drama,Mystery,Sci-Fi",2h 10m,109676311,Christopher Nolan
+42,Whiplash,���ѹ���,2014,8.5,"Drama,Music",1h 46m,49396747,Damien Chazelle
+43,Casablanca,����������,1942,8.5,"Drama,Romance,War",1h 42m,4626532,Michael Curtiz
+44,Grave of the Fireflies,ө���֮Ĺ,1988,8.5,"Animation,Drama,War",1h 29m,516962,Isao Takahata
+45,Harakiri,�и�,1962,8.6,"Action,Drama,Mystery",2h 13m,Not Available,Masaki Kobayashi
+46,The Intouchables,�����ɼ�,2011,8.5,"Biography,Comedy,Drama",1h 52m,426588510,"Olivier Nakache,��ric Toledano"
+47,Modern Times,Ħ��ʱ��,1936,8.5,"Comedy,Drama,Romance",1h 27m,463618,Charles Chaplin
+48,Once Upon a Time in the West,��������,1968,8.5,Western,2h 45m,5435024,Sergio Leone
+49,Rear Window,��,1954,8.5,"Mystery,Thriller",1h 52m,37034579,Alfred Hitchcock
+50,Cinema Paradiso,���õ�ӰԺ,1988,8.5,"Drama,Romance",2h 35m,13019063,Giuseppe Tornatore
+51,Alien,����,1979,8.5,"Horror,Sci-Fi",1h 57m,106285522,Ridley Scott
+52,City Lights,����֮��,1931,8.5,"Comedy,Drama,Romance",1h 27m,50419,Charles Chaplin
+53,Apocalypse Now,�ִ���ʾ¼,1979,8.5,"Drama,Mystery,War",2h 27m,104880868,Francis Ford Coppola
+54,Memento,������Ƭ,2000,8.4,"Mystery,Thriller",1h 53m,40047078,Christopher Nolan
+55,Django Unchained,����ȵĽ���,2012,8.4,"Drama,Western",2h 45m,426074373,Quentin Tarantino
+56,Indiana Jones and the Raiders of the Lost Ark,�ᱦ���,1981,8.4,"Action,Adventure",1h 55m,389925971,Steven Spielberg
+57,WALL��E,�������ܶ�Ա,2008,8.4,"Animation,Adventure,Family",1h 38m,521311890,Andrew Stanton
+58,The Lives of Others,�����籩,2006,8.4,"Drama,Mystery,Thriller",2h 17m,77356942,Florian Henckel von Donnersmarck
+59,Sunset Blvd.,������,1950,8.4,"Drama,Film-Noir",1h 50m,300073,Billy Wilder
+60,Paths of Glory,����֮·,1957,8.4,"Drama,War",1h 28m,5252,Stanley Kubrick
+61,The Shining,����,1980,8.4,"Drama,Horror",2h 26m,47335804,Stanley Kubrick
+62,The Great Dictator,�������,1940,8.4,"Comedy,Drama,War",2h 5m,970263,Charles Chaplin
+63,Avengers: Infinity War,����������3������ս��,2018,8.4,"Action,Adventure,Sci-Fi",2h 29m,2052415039,"Anthony Russo,Joe Russo"
+64,Witness for the Prosecution,�ط�֤��,1957,8.4,"Crime,Drama,Mystery",1h 56m,7693,Billy Wilder
+65,Aliens,����2,1986,8.4,"Action,Adventure,Sci-Fi",2h 17m,131060248,James Cameron
+66,Spider-Man: Into the Spider-Verse,֩������ƽ������,2018,8.4,"Animation,Action,Adventure",1h 57m,Not Available,"Bob Persichetti,Peter Ramsey,Rodney Rothman"
+67,American Beauty,��������,1999,8.4,Drama,2h 2m,356296601,Sam Mendes
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,�氮��ʿ,1964,8.4,"Comedy,War",1h 35m,9523464,Stanley Kubrick
+69,The Dark Knight Rises,���������ڰ���ʿ����,2012,8.4,"Action,Drama",2h 44m,1081169825,Christopher Nolan
+70,Oldboy,���к�,2003,8.4,"Action,Drama,Mystery",2h,15421226,Park Chan-wook
+71,Inglourious Basterds,�޳ܻ쵰,2009,8.3,"Adventure,Drama,War",2h 33m,321457747,Quentin Tarantino
+72,Amadeus,Ī���ش�,1984,8.4,"Biography,Drama,Music",2h 40m,52066791,Milos Forman
+73,Coco,Ѱ�λ��μ�,2017,8.4,"Animation,Adventure,Comedy",1h 45m,814337054,"Lee Unkrich,Adrian Molina(co-directed by)"
+74,Toy Story,����ܶ�Ա,1995,8.3,"Animation,Adventure,Comedy",1h 21m,394436586,John Lasseter
+75,Joker,С��,2019,8.4,"Crime,Drama,Thriller",2h 2m,1074458282,Todd Phillips
+76,Braveheart,�¸ҵ���,1995,8.4,"Biography,Drama,History",2h 58m,213216216,Mel Gibson
+77,The Boat,�Ӻ��׳���,1981,8.4,"Drama,War",Not Available,11487676,Wolfgang Petersen
+78,Avengers: Endgame,����������4���վ�֮ս,2019,8.4,"Action,Adventure,Drama",3h 1m,2799439100,"Anthony Russo,Joe Russo"
+79,Princess Mononoke,���鹫��,1997,8.4,"Animation,Action,Adventure",2h 14m,170005875,Hayao Miyazaki
+80,Once Upon a Time in America,��������,1984,8.3,"Crime,Drama",3h 49m,5473337,Sergio Leone
+81,Good Will Hunting,���鲶��,1997,8.3,"Drama,Romance",2h 6m,Not Available,Gus Van Sant
+82,Your Name.,�������,2016,8.4,"Animation,Drama,Fantasy",1h 46m,Not Available,Makoto Shinkai
+83,3 Idiots,��ɵ���ֱ�����,2009,8.4,"Comedy,Drama",2h 50m,60262836,Rajkumar Hirani
+84,Singin' in the Rain,������,1952,8.3,"Comedy,Musical,Romance",1h 43m,2000288,"Stanley Donen,Gene Kelly"
+85,Requiem for a Dream,��֮������,2000,8.3,Drama,1h 42m,7390108,Darren Aronofsky
+86,Toy Story 3,����ܶ�Ա3,2010,8.3,"Animation,Adventure,Comedy",1h 43m,1067316101,Lee Unkrich
+87,High and Low,��������,1963,8.4,"Crime,Drama,Mystery",2h 23m,Not Available,Akira Kurosawa
+88,Capernaum,����Ϊ��,2018,8.4,Drama,2h 6m,Not Available,Nadine Labaki
+89,Star Wars: Episode VI - Return of the Jedi,�����ս3�����ع���,1983,8.3,"Action,Adventure,Fantasy",2h 11m,475106177,Richard Marquand
+90,Eternal Sunshine of the Spotless Mind,ůů�ں���,2004,8.3,"Drama,Romance,Sci-Fi",1h 48m,74036715,Michel Gondry
+91,2001: A Space Odyssey,2001̫������,1968,8.3,"Adventure,Sci-Fi",2h 29m,65889846,Stanley Kubrick
+92,Reservoir Dogs,��ˮ��,1992,8.3,"Crime,Thriller",1h 39m,2913644,Quentin Tarantino
+93,Come and See,�Լ�ȥ��,1985,8.4,"Drama,Thriller,War",2h 22m,Not Available,Elem Klimov
+94,The Hunt,����,2012,8.3,Drama,1h 55m,Not Available,Thomas Vinterberg
+95,Citizen Kane,���񿭶�,1941,8.3,"Drama,Mystery",1h 59m,1645133,Orson Welles
+96,M,M����ɱ��,1931,8.3,"Crime,Mystery,Thriller",1h 39m,35566,Fritz Lang
+97,Lawrence of Arabia,������������˹,1962,8.3,"Adventure,Biography,Drama",3h 38m,45720631,David Lean
+98,North by Northwest,����ƫ��,1959,8.3,"Action,Adventure,Mystery",2h 16m,142319,Alfred Hitchcock
+99,Vertigo,�Ի��,1958,8.3,"Mystery,Romance,Thriller",2h 8m,7798146,Alfred Hitchcock
+100,Ikiru,��֮��,1952,8.3,Drama,2h 23m,96302,Akira Kurosawa
+101,Am��lie,��ʹ������,2001,8.3,"Comedy,Romance",2h 2m,174122191,Jean-Pierre Jeunet
+102,The Apartment,��ɫ��Ԣ,1960,8.3,"Comedy,Drama,Romance",2h 5m,18778738,Billy Wilder
+103,A Clockwork Orange,������,1971,8.3,"Crime,Sci-Fi",2h 16m,26960374,Stanley Kubrick
+104,Double Indemnity,˫���⳥ ,1944,8.3,"Crime,Drama,Film-Noir",1h 47m,14651,Billy Wilder
+105,Full Metal Jacket,ȫ�������,1987,8.3,"Drama,War",1h 56m,46358827,Stanley Kubrick
+106,Top Gun: Maverick,׳־����2��������,2022,8.3,"Action,Drama",2h 10m,1488732821,Joseph Kosinski
+107,Scarface,����ɷ��,1983,8.3,"Crime,Drama",2h 50m,65884703,Brian De Palma
+108,Hamilton,���ܶ���,2020,8.4,"Biography,Drama,History",2h 40m,Not Available,Thomas Kail
+109,Incendies,����֮��,2010,8.3,"Drama,Mystery",2h 11m,6788659,Denis Villeneuve
+110,To Kill a Mockingbird,ɱ��һֻ֪����,1962,8.3,"Crime,Drama",2h 9m,599146,Robert Mulligan
+111,Heat,������,1995,8.3,"Action,Crime,Drama",2h 50m,187436818,Michael Mann
+112,The Sting,��˿��,1973,8.3,"Comedy,Crime,Drama",2h 9m,156000000,George Roy Hill
+113,Up,���ݻ��μ�,2009,8.3,"Animation,Adventure,Comedy",1h 36m,735099102,"Pete Docter,Bob Peterson(co-director)"
+114,A Separation,һ�α���,2011,8.3,Drama,2h 3m,22926076,Asghar Farhadi
+115,Metropolis,�󶼻�,1927,8.3,"Drama,Sci-Fi",2h 33m,1349711,Fritz Lang
+116,Taxi Driver,���⳵˾��,1976,8.2,"Crime,Drama",1h 54m,28570902,Martin Scorsese
+117,L.A. Confidential,��ǻ���,1997,8.2,"Crime,Drama,Mystery",2h 18m,126216940,Curtis Hanson
+118,Die Hard,��������,1988,8.2,"Action,Thriller",2h 12m,141603197,John McTiernan
+119,Snatch,͵����ƭ,2000,8.2,"Comedy,Crime",1h 42m,83557872,Guy Ritchie
+120,Indiana Jones and the Last Crusade,�ᱦ���3,1989,8.2,"Action,Adventure",2h 7m,474171806,Steven Spielberg
+121,Bicycle Thieves,͵���г�����,1948,8.3,Drama,1h 29m,436655,Vittorio De Sica
+122,Like Stars on Earth,�����ϵ�����,2007,8.3,"Drama,Family",2h 45m,21897373,"Aamir Khan,Amole Gupte(uncredited)"
+123,1917,1917,2019,8.2,"Action,Drama,War",1h 59m,384479940,Sam Mendes
+124,Downfall,�۹��Ļ���,2004,8.2,"Biography,Drama,History",2h 36m,92181574,Oliver Hirschbiegel
+125,Dangal,ˤ�Ӱɣ��ְ�,2016,8.3,"Action,Biography,Drama",2h 41m,Not Available,Nitesh Tiwari
+126,For a Few Dollars More,�ƻ�˫�ڿ�,1965,8.2,Western,2h 12m,15000000,Sergio Leone
+127,Batman Begins,����������Ӱ֮��,2005,8.2,"Action,Crime,Drama",2h 20m,373672993,Christopher Nolan
+128,The Kid,Ѱ�����ɼ�,1921,8.3,"Comedy,Drama,Family",1h 8m,41960,Charles Chaplin
+129,Some Like It Hot,�������,1959,8.2,"Comedy,Music,Romance",2h 1m,195088,Billy Wilder
+130,The Father,����ʱ����ĸ���,2020,8.2,"Drama,Mystery",1h 37m,24427162,Florian Zeller
+131,All About Eve,��������,1950,8.2,Drama,2h 18m,151052,Joseph L. Mankiewicz
+132,The Wolf of Wall Street,������֮��,2013,8.2,"Biography,Comedy,Crime",3h,406878233,Martin Scorsese
+133,Green Book,��Ƥ��,2018,8.2,"Biography,Comedy,Drama",2h 10m,321752656,Peter Farrelly
+134,Judgment at Nuremberg,Ŧ�ױ�������,1961,8.3,"Drama,War",2h 59m,12180,Stanley Kramer
+135,Casino,�ĳǷ���,1995,8.2,"Crime,Drama",2h 58m,116112375,Martin Scorsese
+136,Ran,��,1985,8.2,"Action,Drama,War",2h 42m,4164283,Akira Kurosawa
+137,Pan's Labyrinth,������Թ�,2006,8.2,"Drama,Fantasy,War",1h 58m,83862032,Guillermo del Toro
+138,The Truman Show,���ŵ�����,1998,8.2,"Comedy,Drama",1h 43m,264118201,Peter Weir
+139,There Will Be Blood,Ѫɫ����,2007,8.2,Drama,2h 38m,76182388,Paul Thomas Anderson
+140,Unforgiven,������ˡ,1992,8.2,"Drama,Western",2h 10m,159167799,Clint Eastwood
+141,The Sixth Sense,������,1999,8.2,"Drama,Mystery,Thriller",1h 47m,672806432,M. Night Shyamalan
+142,Shutter Island,���յ�,2010,8.2,"Mystery,Thriller",2h 18m,294805697,Martin Scorsese
+143,A Beautiful Mind,��������,2001,8.2,"Biography,Drama",2h 15m,316791257,Ron Howard
+144,Jurassic Park,٪�޼͹�԰,1993,8.2,"Action,Adventure,Sci-Fi",2h 7m,1109802321,Steven Spielberg
+145,Yojimbo,���İ�,1961,8.2,"Action,Drama,Thriller",1h 50m,46808,Akira Kurosawa
+146,The Treasure of the Sierra Madre,��Ѫ��ɳ,1948,8.2,"Adventure,Drama,Western",2h 6m,5014000,John Huston
+147,Monty Python and the Holy Grail,������ʥ��,1975,8.2,"Adventure,Comedy,Fantasy",1h 31m,1940906,"Terry Gilliam,Terry Jones"
+148,The Great Escape,������,1963,8.2,"Adventure,Drama,History",2h 52m,228178,John Sturges
+149,No Country for Old Men,��������,2007,8.2,"Crime,Drama,Thriller",2h 2m,171627434,"Ethan Coen,Joel Coen"
+150,Spider-Man: No Way Home,֩������Ӣ���޹�,2021,8.2,"Action,Adventure,Fantasy",2h 28m,1921847111,Jon Watts
+151,Kill Bill: Vol. 1,ɱ���ȶ�,2003,8.2,"Action,Crime,Drama",1h 51m,180906076,Quentin Tarantino
+152,Rashomon,������,1950,8.2,"Crime,Drama,Mystery",1h 28m,81379,Akira Kurosawa
+153,The Thing,����,1982,8.2,"Horror,Mystery,Sci-Fi",1h 49m,19632715,John Carpenter
+154,Finding Nemo,�����ܶ�Ա,2003,8.2,"Animation,Adventure,Comedy",1h 40m,941637960,"Andrew Stanton,Lee Unkrich(co-director)"
+155,The Elephant Man,����,1980,8.2,"Biography,Drama",2h 4m,26023860,David Lynch
+156,Chinatown,���˽�,1974,8.2,"Drama,Mystery,Thriller",2h 10m,29225935,Roman Polanski
+157,Raging Bull,��ŭ�Ĺ�ţ,1980,8.2,"Biography,Drama,Sport",2h 9m,23402427,Martin Scorsese
+158,V for Vendetta,V�ֳ�ɱ��,2005,8.2,"Action,Drama,Sci-Fi",2h 12m,134686457,James McTeigue
+159,Gone with the Wind,��������,1939,8.2,"Drama,Romance,War",3h 58m,402382193,"Victor Fleming,George Cukor(uncredited),Sam Wood(uncredited)"
+160,"Lock, Stock and Two Smoking Barrels",���˴���ǹ,1998,8.2,"Action,Comedy,Crime",1h 47m,3753929,Guy Ritchie
+161,Inside Out,ͷ���ع���,2015,8.2,"Animation,Adventure,Comedy",1h 35m,858848019,"Pete Docter,Ronnie Del Carmen(co-director)"
+162,Dial M for Murder,�绰ıɱ��,1954,8.2,"Crime,Thriller",1h 45m,31207,Alfred Hitchcock
+163,The Secret in Their Eyes,��һ����˫��,2009,8.2,"Drama,Mystery,Romance",2h 9m,Not Available,Juan Jos�� Campanella
+164,Howl's Moving Castle,�������ƶ��Ǳ�,2004,8.2,"Animation,Adventure,Family",1h 59m,237536126,Hayao Miyazaki
+165,"Three Billboards Outside Ebbing, Missouri",��������,2017,8.1,"Comedy,Crime,Drama",1h 55m,162861289,Martin McDonagh
+166,The Bridge on the River Kwai,��Ӵ���,1957,8.2,"Adventure,Drama,War",2h 41m,27200000,David Lean
+167,Trainspotting,�»�,1996,8.1,Drama,1h 33m,16767475,Danny Boyle
+168,Prisoners,��ͽ,2013,8.1,"Crime,Drama,Mystery",2h 33m,122126687,Denis Villeneuve
+169,Warrior,��ʿ,2011,8.2,"Action,Drama,Sport",2h 20m,23308615,Gavin O'Connor
+170,Fargo,��Ѫ��,1996,8.1,"Crime,Thriller",1h 38m,60611975,"Joel Coen,Ethan Coen(uncredited)"
+171,Gran Torino,��ү��,2008,8.1,Drama,1h 56m,269958228,Clint Eastwood
+172,My Neighbor Totoro,��è,1988,8.1,"Animation,Comedy,Family",1h 26m,Not Available,Hayao Miyazaki
+173,Catch Me If You Can,è����Ϸ,2002,8.1,"Biography,Crime,Drama",2h 21m,Not Available,Steven Spielberg
+174,Million Dollar Baby,������Ԫ����,2004,8.1,"Drama,Sport",2h 12m,216763646,Clint Eastwood
+175,Children of Heaven,СЬ��,1997,8.2,"Drama,Family,Sport",1h 29m,Not Available,Majid Majidi
+176,Blade Runner,����ɱ��,1982,8.1,"Action,Drama,Sci-Fi",1h 57m,41722424,Ridley Scott
+177,The Gold Rush,�Խ��,1925,8.1,"Adventure,Comedy,Drama",1h 35m,29328,Charles Chaplin
+178,Before Sunrise,������������ǰ,1995,8.1,"Drama,Romance",1h 41m,5987386,Richard Linklater
+179,12 Years a Slave,Ϊūʮ����,2013,8.1,"Biography,Drama,History",2h 14m,187733202,Steve McQueen
+180,Klaus,����˹��ʥ���ڵ�����,2019,8.2,"Animation,Adventure,Comedy",1h 36m,Not Available,"Sergio Pablos,Carlos Mart��nez L��pez(co-director)"
+181,Harry Potter and the Deathly Hallows: Part 2,����������������ʥ��(��),2011,8.1,"Adventure,Family,Fantasy",2h 10m,1342359942,David Yates
+182,On the Waterfront,��ͷ����,1954,8.1,"Crime,Drama,Thriller",1h 48m,910000 (estimated),Elia Kazan
+183,Ben-Hur,����,1959,8.1,"Adventure,Drama",3h 32m,74437720,William Wyler
+184,Gone Girl,��ʧ�İ���,2014,8.1,"Drama,Mystery,Thriller",2h 29m,Not Available,David Fincher
+185,The Grand Budapest Hotel,������˹�󷹵�,2014,8.1,"Adventure,Comedy,Crime",1h 39m,173082189,Wes Anderson
+186,Wild Strawberries,Ұ��ݮ,1957,8.1,"Drama,Romance",1h 31m,60418,Ingmar Bergman
+187,The General,������,1926,8.1,"Action,Adventure,Comedy",1h 7m,750000 (estimated),"Clyde Bruckman,Buster Keaton"
+188,The Third Man,������,1949,8.1,"Film-Noir,Mystery,Thriller",1h 33m,1226507,Carol Reed
+189,In the Name of the Father,��֮��,1993,8.1,"Biography,Crime,Drama",2h 13m,Not Available,Jim Sheridan
+190,The Deer Hunter,��¹��,1978,8.1,"Drama,War",3h 3m,49074379,Michael Cimino
+191,Barry Lyndon,����ֵ�,1975,8.1,"Adventure,Drama,War",3h 5m,199632,Stanley Kubrick
+192,Hacksaw Ridge,Ѫս�־���,2016,8.1,"Biography,Drama,History",2h 19m,180563636,Mel Gibson
+193,The Wages of Fear,�־�Ĵ���,1953,8.2,"Adventure,Drama,Thriller",2h 11m,1098,Henri-Georges Clouzot
+194,Memories of Murder,ɱ�˻���,2003,8.1,"Crime,Drama,Mystery",2h 12m,1166717,Bong Joon Ho
+195,Sherlock Jr.,����Ħ˹����,1924,8.2,"Action,Comedy,Romance",45m,Not Available,Buster Keaton
+196,Wild Tales,���Ĺ���,2014,8.1,"Comedy,Drama,Thriller",2h 2m,Not Available,Dami��n Szifron
+197,Mr. Smith Goes to Washington,ʷ��˹��������ʢ��,1939,8.1,"Comedy,Drama",2h 9m,144738,Frank Capra
+198,Mad Max: Fury Road,�������˹4����֮·,2015,8.1,"Action,Adventure,Sci-Fi",2h,415261382,George Miller
+199,The Seventh Seal,���߷�ӡ,1957,8.1,"Drama,Fantasy",1h 36m,311212,Ingmar Bergman
+200,Mary and Max,����������˼,2009,8.1,"Animation,Comedy,Drama",1h 32m,1740429,Adam Elliot
+201,How to Train Your Dragon,ѱ������,2010,8.1,"Animation,Action,Adventure",1h 38m,494879471,"Dean DeBlois,Chris Sanders"
+202,Room,����,2015,8.1,"Drama,Thriller",1h 58m,35401758,Lenny Abrahamson
+203,"Monsters, Inc.",���޵�����˾,2001,8.1,"Animation,Adventure,Comedy",1h 32m,579707738,"Pete Docter,David Silverman(co-director),Lee Unkrich(co-director)"
+204,Jaws,�����,1975,8.1,"Adventure,Thriller",2h 4m,476512065,Steven Spielberg
+205,Dead Poets Society,����ʫ��,1989,8.1,"Comedy,Drama",2h 8m,235860116,Peter Weir
+206,The Big Lebowski,ıɱ�̽�ֺ,1998,8.1,"Comedy,Crime",1h 57m,46969409,"Joel Coen,Ethan Coen(uncredited)"
+207,Tokyo Story,��������,1953,8.2,Drama,2h 16m,Not Available,Yasujir? Ozu
+208,The Passion of Joan of Arc,ʥŮ������Ѽ�,1928,8.2,"Biography,Drama,History",1h 54m,Not Available,Carl Theodor Dreyer
+209,Hotel Rwanda,¬���ﷹ��,2004,8.1,"Biography,Drama,History",2h 1m,33882243,Terry George
+210,Ford v Ferrari,���ٳ���,2019,8.1,"Action,Biography,Drama",2h 32m,225508210,James Mangold
+211,Rocky,����,1976,8.1,"Drama,Sport",2h,117250402,John G. Avildsen
+212,Platoon,Ұս��,1986,8.1,"Drama,War",2h,138545632,Oliver Stone
+213,Ratatouille,��ʳ�ܶ�Ա,2007,8.1,"Animation,Adventure,Comedy",1h 51m,623726085,"Brad Bird,Jan Pinkava(co-director)"
+214,Spotlight,�۽�,2015,8.1,"Biography,Crime,Drama",2h 9m,98690254,Tom McCarthy
+215,The Terminator,�ս���,1984,8.1,"Action,Sci-Fi",1h 47m,78371200,James Cameron
+216,Logan,�����3������һս,2017,8.1,"Action,Drama,Sci-Fi",2h 17m,619179950,James Mangold
+217,Stand by Me,����ͬ��,1986,8.1,"Adventure,Drama",1h 29m,52287414,Rob Reiner
+218,Rush,���ٷ���,2013,8.1,"Action,Biography,Drama",2h 3m,96983009,Ron Howard
+219,Network,����̨����,1976,8.1,Drama,2h 1m,23690757,Sidney Lumet
+220,Into the Wild,��Ұ����,2007,8.1,"Adventure,Biography,Drama",2h 28m,56675895,Sean Penn
+221,Before Sunset,������������ǰ,2004,8.1,"Drama,Romance",1h 20m,Not Available,Richard Linklater
+222,The Wizard of Oz,��Ұ����,1939,8.1,"Adventure,Family,Fantasy",1h 42m,25637669,"Victor Fleming,George Cukor(uncredited),Mervyn LeRoy(uncredited)"
+223,Pather Panchali,���֮��,1955,8.3,Drama,2h 5m,135342,Satyajit Ray
+224,Groundhog Day,������֮��,1993,8.1,"Comedy,Drama,Fantasy",1h 41m,71108591,Harold Ramis
+225,The Best Years of Our Lives,�ƽ�ʱ��,1946,8.1,"Drama,Romance,War",2h 50m,23661347,William Wyler
+226,The Exorcist,��ħ��,1973,8.1,Horror,2h 2m,441306145,William Friedkin
+227,The Incredibles,�����ܶ�Ա,2004,8,"Animation,Action,Adventure",1h 55m,631607053,Brad Bird
+228,To Be or Not to Be,������Ҳ��,1942,8.2,"Comedy,Romance,War",1h 39m,Not Available,Ernst Lubitsch
+229,La haine,ŭ���ഺ,1995,8.1,"Crime,Drama",1h 38m,Not Available,Mathieu Kassovitz
+230,The Battle of Algiers,��������֮ս,1966,8.1,"Drama,War",2h 1m,962002,Gillo Pontecorvo
+231,Pirates of the Caribbean: The Curse of the Black Pearl,���ձȺ���,2003,8.1,"Action,Adventure,Fantasy",2h 23m,654264015,Gore Verbinski
+232,Hachi: A Dog's Tale,��Ȯ�˹��Ĺ���,2009,8.1,"Biography,Drama,Family",1h 33m,Not Available,Lasse Hallstr?m
+233,The Grapes of Wrath,��ŭ������,1940,8.1,Drama,2h 9m,800000 (estimated),John Ford
+234,Jai Bhim,��������ķ,2021,8.8,"Crime,Drama,Mystery",2h 44m,Not Available,T.J. Gnanavel
+235,My Father and My Son,�ҵĸ��ף��ҵĶ���,2005,8.2,"Drama,Family",1h 52m,Not Available,?agan Irmak
+236,Amores Perros,�����ǹ���,2000,8.1,"Drama,Thriller",2h 34m,20908467,Alejandro G. I?��rritu
+237,Rebecca,������,1940,8.1,"Drama,Film-Noir,Mystery",2h 10m,72275,Alfred Hitchcock
+238,Cool Hand Luke,�����Ѫ,1967,8.1,"Crime,Drama",2h 7m,67,Stuart Rosenberg
+239,The Handmaiden,С��,2016,8.1,"Drama,Romance,Thriller",2h 25m,Not Available,Park Chan-wook
+240,The 400 Blows,�İٻ�,1959,8.1,"Crime,Drama",1h 39m,127244,Fran?ois Truffaut
+241,The Sound of Music,����֮��,1965,8.1,"Biography,Drama,Family",2h 52m,159428329,Robert Wise
+242,It Happened One Night,һҹ����,1934,8.1,"Comedy,Romance",1h 45m,11477,Frank Capra
+243,Persona,����,1966,8.1,"Drama,Thriller",1h 23m,Not Available,Ingmar Bergman
+244,Life of Brian,����ħ��,1979,8,Comedy,1h 34m,20745728,Terry Jones
+245,The Iron Giant,��������,1999,8.1,"Animation,Action,Adventure",1h 26m,23335817,Brad Bird
+246,The Help,����,2011,8.1,Drama,2h 26m,216639112,Tate Taylor
+247,Dersu Uzala,�¶��ա�������,1975,8.2,"Adventure,Biography,Drama",2h 22m,14480,Akira Kurosawa
+248,Aladdin,������,1992,8,"Animation,Adventure,Comedy",1h 30m,Not Available,"Ron Clements,John Musker"
+249,Gandhi,�ʵش�,1982,8,"Biography,Drama,History",3h 11m,52767889,Richard Attenborough
+250,Dances with Wolves,���ǹ���,1990,8,"Adventure,Drama,Western",3h 1m,424208848,Kevin Costner
